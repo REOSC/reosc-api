@@ -20,7 +20,7 @@ hi!
 
 $ cd ~/
 
-$ git clone https://github.com/cubedro/eth-net-intelligence-api
+$ git clone https://github.com/My-Kings/reosc-api
 
 $ cd eth-net-intelligence-api
 
