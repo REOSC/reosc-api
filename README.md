@@ -9,11 +9,6 @@ This is the backend service which runs along with reosc-node and tracks the netw
 * reosc-node
 * npm
 
-
-bash <(curl https://raw.githubusercontent.com/My-Kings/reosc-api/master/bin/build.sh)
-
-
-
 hi! 
 ## We would love to see your node working on stats page
     http://stats.reosc.io/
