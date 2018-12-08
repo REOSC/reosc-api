@@ -10,7 +10,7 @@ This is the backend service which runs along with reosc-node and tracks the netw
 * npm
 
 ### Hi! 
-## We would love to see your node working on [REOSC Stats](http://stats.reosc.io/)Page
+## We would love to see your node working on [REOSC STATS](http://stats.reosc.io/) Page
     http://stats.reosc.io
 
 $ cd ~/
