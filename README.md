@@ -9,7 +9,7 @@ This is the backend service which runs along with reosc-node and tracks the netw
 * reosc-node
 * npm
 
-hi! 
+### Hi! 
 ## We would love to see your node working on stats page
     http://stats.reosc.io/
 
