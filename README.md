@@ -27,7 +27,9 @@ This is the backend service which runs along with reosc-node and tracks the netw
 
     $ npm start
 
-## Now you Can modify the file to update your Masternodes name when connected to our stats server.
+## Now you Can modify node.js file LINE25: to update your Masternodes Name when connected to our stats server.
 
     $ cd lib/node.js
+
+    LINE25 : var INSTANCE_NAME = "REOSC_Masternode";
 
