@@ -17,19 +17,14 @@ $ cd ~/
 
 $ git clone https://github.com/My-Kings/reosc-api
 
-$ cd eth-net-intelligence-api
+$ cd reosc-api
 
 $ npm install
 
-## Now you must modify the file to connect to our stats server.
+## now run:
+$ npm start
+
+## Now you Can modify the file to update your Masternodes name when connected to our stats server.
 
 $ cd lib/node.js
 
-## Find and Modify These Lines.
-
-    Line 27: var WS_SECRET = "the_secret";
-
-    Line 209: socket = new Socket( process.env.WS_SERVER || 'ws://stats.reosc.io:3001' );
-
-## now run:
-$ npm start
